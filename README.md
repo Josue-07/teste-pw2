@@ -2,5 +2,6 @@
 Nosso primeiro  programa no GitHub
 
 ## Desenvolvedores
-Arinelson
-Josué
+**Arinelson Santos**
+
+**Josué Lima**
